@@ -1,6 +1,6 @@
 # Bio
 
-Hello and thanks for stopping by, I am Jingtao Tang from China, currently as a master student in East China Normal University ([ECNU](https://www.ecnu.edu.cn/)). My research interests include multi-robot decision&planning, virtual reality.
+Hello and thanks for stopping by, I am Jingtao Tang from China, currently as a master student in East China Normal University (ECNU). My research interests include multi-robot decision&planning, virtual reality.
 
 
 # Educations
@@ -15,7 +15,7 @@ Hello and thanks for stopping by, I am Jingtao Tang from China, currently as a m
 3. <ins>**Jingtao Tang**</ins>, Xinyu Zhang, Hybrid Projection Format for Encoding 360 VR Videos,  _IEEE Conference on Virtual Reality and 3D User Interfac 2019 (**IEEE-VR'19, acc. rate=20.6%**)_. [[paper]](papers/VR19-HCP.pdf)
 
 
-# [Research Projects](pages/projects.md)
+# [Projects](pages/projects.md)
 
 - **Multi-robot Coverage Path Planning & Motion Planning on Complex Terrain**
 - **Projection Formats for Encoding 360 VR Video**
@@ -26,5 +26,3 @@ Hello and thanks for stopping by, I am Jingtao Tang from China, currently as a m
 - [Peace - A Theme (Cover: King Crimson)](https://www.bilibili.com/video/BV1At41137SN/)
 - [November Rain (Cover: Slash)](https://www.bilibili.com/video/BV1VJ411c7AJ/)
 
-# Volunteers
-- [2020 & 2019 & 2018 ROS Summer School volunteers](http://www.roseducation.org/)

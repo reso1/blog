@@ -1,6 +1,4 @@
-title: JingTao Tang's Homepage
-name: JingTao Tang
-# description: 
+title: 汤 景 韬
+description: JingTao Tang's homepage
 logo: images/avatar.png
-theme: minimal-mistakes-jekyll
-minimal_mistakes_skin: "default"
+theme: jekyll-theme-minimal
