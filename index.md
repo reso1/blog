@@ -22,14 +22,27 @@ Hello and thanks for stopping by, I am Jingtao Tang from China, currently as a m
 
 # Guitar Performance
 
-- My Dearest (Cover: Neil Zaza)
+<div class="row">
+  <div class="column">
+    <div class="row">
+        My Dearest (Cover: Neil Zaza)
+    </div>
+    <div class="row">
+        <a href="https://www.bilibili.com/video/BV18a4y177o9/">
+            <img src="images/my_dearest.jpg" alt="My Dearest (Cover: Neil Zaza)" height="200"/>
+        </a>
+    </div>
+  </div>
 
-    <a href="https://www.bilibili.com/video/BV18a4y177o9/">
-        <img src="images/my_dearest.jpg" alt="My Dearest (Cover: Neil Zaza)" height="200"/>
-    </a>
+  <div class="column">
+    <div class="row">
+        Peace - A Theme (Cover: King Crimson)
+    </div>
+    <div class="row">
+        <a href="https://www.bilibili.com/video/BV1At41137SN/">
+            <img src="images/peace.jpg" alt="Peace - A Theme (Cover: King Crimson)" height="200"/>
+        </a>
+    </div>
+  </div>
+</div>
 
-- Peace - A Theme (Cover: King Crimson)
-
-    <a href="https://www.bilibili.com/video/BV1At41137SN/">
-        <img src="images/peace.jpg" alt="Peace - A Theme (Cover: King Crimson)" height="200"/>
-    </a>
