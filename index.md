@@ -1,8 +1,10 @@
 # Bio
-Hello and thanks for stopping by, I am Jingtao(Todd) Tang from China, currently as a master student in East China Normal University (ECNU). My research interests include multi-robot decision&planning, virtual reality.
+
+Hello and thanks for stopping by, I am Jingtao Tang from China, currently as a master student in East China Normal University (ECNU). My research interests include multi-robot decision&planning, virtual reality.
 
 
 # Educations
+
 - '18~'21, Master's Degree of Software Engineering in East China Normal University
 - '14~'18, Bachelor's Degree of Software Engineering in East China Normal University
 
@@ -19,4 +21,15 @@ Hello and thanks for stopping by, I am Jingtao(Todd) Tang from China, currently 
 - **Projection Formats for Encoding 360 VR Video**
 
 # Guitar Performance
-[![My Dearest (Cover: Neil Zaza)](images/my_dearest.jpg)](https://www.bilibili.com/video/BV18a4y177o9/)
+
+- My Dearest (Cover: Neil Zaza)
+
+    <a href="https://www.bilibili.com/video/BV18a4y177o9/">
+        <img src="images/my_dearest.jpg" alt="My Dearest (Cover: Neil Zaza)" height="200"/>
+    </a>
+
+- Peace - A Theme (Cover: King Crimson)
+
+    <a href="https://www.bilibili.com/video/BV1At41137SN/">
+        <img src="images/peace.jpg" alt="Peace - A Theme (Cover: King Crimson)" height="200"/>
+    </a>
