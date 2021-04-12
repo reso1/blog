@@ -12,7 +12,7 @@ Hello and thanks for stopping by, I am Jingtao Tang (汤景韬 in Chinese) from 
 - '18~'21, Master's Degree of Software Engineering in East China Normal University
 - '14~'18, Bachelor's Degree of Software Engineering in East China Normal University
 
-# [Publications](./another.html)
+# [Publications](./pages/papers.html)
 
 1. <ins>**Jingtao Tang**</ins>, Chun Sun, Xinyu Zhang, MSTC*: Multi-robot Coverage Path Planning under Physical Constraint, _IEEE Conference on Robotics and Automation 2021 (**ICRA'21**)_. [[paper]](/assets/docs/papers/ICRA21-MSTC_Star.pdf), [[video]](https://vimeo.com/535512748), [[code]](https://github.com/reso1/MSTC-Star)
 2. Jianye Xiao, <ins>**Jingtao Tang**</ins>, Xinyu Zhang, A Generalized Cubemap for Encoding 360 VR Videos using Polynomial Approximation,  _Pacific Graphics 2019 (**PG'19, acc. rate=33.3%**)_. [[paper]](/assets/docs/papers/PG19-GCP_polynomial.pdf)
