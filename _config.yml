@@ -4,3 +4,4 @@ logo: /assets/img/avatar.png
 theme: jekyll-theme-minimal
 email: todd.j.tang@gmail.com
 github_username: reso1
+show_downloads: false
