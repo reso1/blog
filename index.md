@@ -2,15 +2,16 @@
 layout: default
 ---
 
-# Bio
+# About me
 
-Hello and thanks for stopping by, I am Jingtao Tang (汤景韬 in Chinese) from China, currently as a master student in East China Normal University ([ECNU](https://www.ecnu.edu.cn/)). My research interests include multi-robot decision&planning, virtual reality.
+Hello and thanks for stopping by, I am Jingtao Tang (汤景韬 in Chinese) from China, currently a Ph.D. Student @ ([Freeform Robotics](https://sites.google.com/view/freeform-robotics)) in Chinese University of Hong Kong, Shenzhen (CUHKSZ). My current researches focus on multi-robot decision & planning.
 
 
 # Educations
 
-- '18~'21, Master's Degree of Software Engineering in East China Normal University
-- '14~'18, Bachelor's Degree of Software Engineering in East China Normal University
+- '22~Now, Ph.D. Student @ Chinese University of Hong Kong, Shenzhen (CUHKSZ)
+- '18~'21, Master's Degree of Software Engineering @ East China Normal University
+- '14~'18, Bachelor's Degree of Software Engineering @ East China Normal University
 
 # [Publications](./pages/papers.html)
 - Chun Sun, <ins>**Jingtao Tang**</ins>, Xinyu Zhang. FT-MSTC*: An Efficient Fault Tolerance Algorithm for Multi-robot Coverage Path Planning. _IEEE Conference on Real-time Computing and Robotics 2021 (**RCAR'21**)_. [[paper]](/assets/docs/papers/RCAR21_FT-MSTC_star.pdf)
