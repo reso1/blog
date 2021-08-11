@@ -4,7 +4,7 @@ layout: default
 
 # About me
 
-Hello and thanks for stopping by, I am Jingtao Tang (汤景韬 in Chinese) from China, currently a Ph.D. Student @ ([Freeform Robotics](https://sites.google.com/view/freeform-robotics)) in Chinese University of Hong Kong, Shenzhen (CUHKSZ). My current researches focus on multi-robot decision & planning.
+Hello and thanks for stopping by, I am Jingtao Tang (汤景韬 in Chinese) from China, currently a Ph.D. Student @ ([Freeform Robotics](https://sites.google.com/view/freeform-robotics)) in Chinese University of Hong Kong, Shenzhen (CUHKSZ). My current researches focus on multi-robot decision & planning, you can get my CV for more detailed information about me from [[here]](/assets/JingtaoTang_CV.pdf).
 
 
 # Educations
