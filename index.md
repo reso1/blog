@@ -9,7 +9,7 @@ Hello and thanks for stopping by, I am Jingtao Tang (汤景韬 in Chinese) from 
 
 # Educations
 
-- '22~Now, Ph.D. Student @ Chinese University of Hong Kong, Shenzhen (CUHKSZ)
+- '21~Now, Ph.D. Student @ Chinese University of Hong Kong, Shenzhen (CUHKSZ)
 - '18~'21, Master's Degree of Software Engineering @ East China Normal University
 - '14~'18, Bachelor's Degree of Software Engineering @ East China Normal University
 
