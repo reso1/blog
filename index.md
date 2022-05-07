@@ -2,27 +2,27 @@
 layout: default
 ---
 
-# About me
+<!-- # About me
 
-Hello and thanks for stopping by, I am Jingtao Tang (汤景韬 in Chinese) from China, currently a Ph.D. Student @ ([Freeform Robotics](https://sites.google.com/view/freeform-robotics)) in Chinese University of Hong Kong, Shenzhen (CUHKSZ). My current researches focus on multi-robot decision & planning, you can get my CV for more detailed information about me from [[here]](/assets/JingtaoTang_CV.pdf).
+Hello and thanks for stopping by, I am Jingtao Tang (汤景韬 in Chinese) from China, currently a Ph.D. Student @ ([Freeform Robotics](https://sites.google.com/view/freeform-robotics)) in Chinese University of Hong Kong, Shenzhen (CUHKSZ). My current researches focus on multi-robot decision & planning. -->
 
 
 # Educations
 
-- '21~Now, Ph.D. Student @ Chinese University of Hong Kong, Shenzhen (CUHKSZ)
-- '18~'21, Master's Degree of Software Engineering @ East China Normal University
-- '14~'18, Bachelor's Degree of Software Engineering @ East China Normal University
+- '18~'21, Master's Degree on Software Engineering @ East China Normal University
+- '14~'18, Bachelor's Degree on Software Engineering @ East China Normal University
 
 # [Publications](./pages/papers.html)
-- Chun Sun, <ins>**Jingtao Tang**</ins>, Xinyu Zhang. FT-MSTC*: An Efficient Fault Tolerance Algorithm for Multi-robot Coverage Path Planning. _IEEE Conference on Real-time Computing and Robotics 2021 (**RCAR'21**)_. [[paper]](/assets/docs/papers/RCAR21_FT-MSTC_star.pdf)
+- Chun Sun, <ins>**Jingtao Tang**</ins>, Xinyu Zhang. FT-MSTC*: An Efficient Fault Tolerance Algorithm for Multi-robot Coverage Path Planning. _IEEE Conference on Real-time Computing and Robotics 2021 (**RCAR'21**)_. [[paper]](https://ieeexplore.ieee.org/abstract/document/9517650/)
 - <ins>**Jingtao Tang**</ins>, Chun Sun, Xinyu Zhang. MSTC*: Multi-robot Coverage Path Planning under Physical Constraint. _IEEE Conference on Robotics and Automation 2021 (**ICRA'21**)_. [[paper]](https://arxiv.org/abs/2108.04632), [[video]](https://vimeo.com/535512748), [[code]](https://github.com/reso1/MSTC-Star)
-- Jianye Xiao, <ins>**Jingtao Tang**</ins>, Xinyu Zhang. A Generalized Cubemap for Encoding 360 VR Videos using Polynomial Approximation.  _Pacific Graphics 2019 (**PG'19, acc. rate=33.3%**)_. [[paper]](/assets/docs/papers/PG19-GCP_polynomial.pdf)
-- <ins>**Jingtao Tang**</ins>, Xinyu Zhang. Hybrid Projection Format for Encoding 360 VR Videos. _IEEE Conference on Virtual Reality and 3D User Interfac 2019 (**IEEE-VR'19, acc. rate=20.6%**)_. [[paper]](/assets/docs/papers/VR19-HCP.pdf)
+- Jianye Xiao, <ins>**Jingtao Tang**</ins>, Xinyu Zhang. A Generalized Cubemap for Encoding 360 VR Videos using Polynomial Approximation.  _Pacific Graphics 2019 (**PG'19**)_. [[paper]](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.13843)
+- <ins>**Jingtao Tang**</ins>, Xinyu Zhang. Hybrid Projection Format for Encoding 360 VR Videos. _IEEE Conference on Virtual Reality and 3D User Interfac 2019 (**IEEE-VR'19**)_. [[paper]](https://ieeexplore.ieee.org/abstract/document/8798261/)
 
 
 # [Projects](./pages/projects.html)
-
+- **Decision Making & Planning for Heterogeneous Multi-robot System**
 - **Multi-robot Coverage Path Planning & Motion Planning on Complex Terrain**
+- **Robot Swarms for Large-scale Ecological Restoration Task**
 - **Projection Formats for Encoding 360 VR Video**
 
 # [Guitar Performance](./pages/guitar_performance.html)
