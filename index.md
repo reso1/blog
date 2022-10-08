@@ -27,7 +27,7 @@ Hello and thanks for stopping by, I am Jingtao Tang (汤景韬 in Chinese) from 
 - **Projection Formats for Encoding 360 VR Video**
 
 # Guitar Performance
-
+- [April Sky (Cover: Vinnie Moore)](https://www.bilibili.com/video/BV12V411W73a)
 - [My Dearest (Cover: Neil Zaza)](https://www.bilibili.com/video/BV18a4y177o9/)
 - [Peace - A Theme (Cover: King Crimson)](https://www.bilibili.com/video/BV1At41137SN/)
 - [November Rain (Cover: Slash)](https://www.bilibili.com/video/BV1VJ411c7AJ/)
