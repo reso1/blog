@@ -1,7 +1,7 @@
 title: Jingtao Tang
 description:
 logo: /assets/img/avatar.png
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/minimal@v0.2.0
 email: todd.j.tang@gmail.com
 github_username: reso1
 show_downloads: false

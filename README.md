@@ -13,13 +13,17 @@ To use the Minimal theme:
 1. Add the following to your site's `_config.yml`:
 
     ```yml
-    theme: jekyll-theme-minimal
+    remote_theme: pages-themes/minimal@v0.2.0
     ```
 
 2. Optionally, if you'd like to preview your site on your computer, add the following to your site's `Gemfile`:
 
     ```ruby
     gem "github-pages", group: :jekyll_plugins
+    ```
+3. Locally run:
+    ```bash
+    bundle exec jekyll serve
     ```
 
 
