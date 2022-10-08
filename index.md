@@ -16,16 +16,18 @@ layout: default
 
 
 # Projects
-- **Decision Making & Planning for Heterogeneous Multi-robot System**
-- **Multi-robot Coverage Path Planning & Motion Planning on Complex Terrain**
-- **Robot Swarms for Large-scale Ecological Restoration Task**
-- **Projection Formats for Encoding 360 VR Video**
+- [Decision Making & Planning for Heterogeneous Multi-robot System](./posts/worker_station_mcpp)
+- [Multi-robot Coverage Path Planning & Motion Planning on Complex Terrain](./posts/mcpp_mp_rough_terrain)
+- [Robot Swarms for Large-scale Ecological Restoration Task](./posts/ecological_restoration_robots)
+- [Projection Formats for Encoding 360 VR Video](./posts/360_vr_projection)
 
-# Guitar Performance
-- [April Sky (Cover: Vinnie Moore)](https://www.bilibili.com/video/BV12V411W73a)
-- [My Dearest (Cover: Neil Zaza)](https://www.bilibili.com/video/BV18a4y177o9/)
-- [Peace - A Theme (Cover: King Crimson)](https://www.bilibili.com/video/BV1At41137SN/)
-- [November Rain (Cover: Slash)](https://www.bilibili.com/video/BV1VJ411c7AJ/)
+# Guitar Lover
+I am an 8-year guitar lover and player for classic, acoustic and electrical
+guitar pieces.
+I also have a 2-year folk band experience and performed in many shows at university
+and restaurant.
+My favorite musicians include Pink Floyd, Stevie Ray Vaughan, Jason Becker, Tommy Emmanuel, Kotaro Oshio, Bob Dylan, 李志, 窦唯, ...
+Click [[here]](./pages/guitar_performance) to watch my performance if you are interested.
 
 # Volunteers
 - 2020 & 2019 & 2018 [ROS Summer School](http://www.roseducation.org/) volunteers
