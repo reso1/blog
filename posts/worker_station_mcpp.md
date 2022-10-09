@@ -15,7 +15,12 @@ layout: post
 
 <p/>
 
-#### We designed a two-stage curriculum learning with the intrinsic curiosity module, which successfully guided the training and further improved the planning efficiency. The [work](https://arxiv.org/abs/2208.02993) is accepted for publication (to appear) by IEEE Robotics and Automation Letters.
+#### We formulate a fully cooperative MARL problem with Dec-POMDP for the system. We then design a two-stage curriculum learning with the intrinsic curiosity module, which successfully guided the training and further improved the planning efficiency. Our method manages to reduce the influence of random dynamic interferers on planning, while the robots can avoid collisions with them.
 
 ![demo](./../assets/img/worker_station_mrs/sim_traj.png)
 *Figure: Motion trajectories of worker-station MRS using our method.*
+
+#### We validate our method in both simulation and real world robot platform. The [work](https://arxiv.org/abs/2208.02993) is accepted for publication (to appear) by IEEE Robotics and Automation Letters.
+
+![demo](./../assets/img/worker_station_mrs/real_robot.png)
+*Figure: Real robot setup of the worker-station multi-robot system.*
