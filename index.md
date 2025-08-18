@@ -128,17 +128,17 @@ I am strongly motivated to empower multiple robots with versatile skills to addr
     <tr>
       <td style="padding:6px;width:35%;vertical-align:middle">
         <div class="one">
-          <img src='assets/img/wshmrs.png' width="200">
+          <img src='assets/img/wshmrs.gif' width="200">
         </div>
       </td>
       <td style="padding:6px;width:65%;vertical-align:middle;font-size: 12.5px;">
         &#128204;&nbsp;
-        Multi-robot Coverage Path Planning & Motion Planning on Complex Terrain
+        Learning to Coordinate for a Worker-Station Multi-robot System in Planar Coverage Tasks
         |
         &#127760;&nbsp;
-        <a href="./posts/mcpp_mp_rough_terrain">Homepage</a>
+        <a href="./posts/worker_station_mcpp">Homepage</a>
         |
-        <span><img src="assets/img/arxiv-logomark-small@2x.png" alt="icon" style="width: 11px; height: 11px; vertical-align: middle;">&nbsp;<a href="https://arxiv.org/abs/2108.04632">ArXiv</a></span>
+        <span><img src="assets/img/arxiv-logomark-small@2x.png" alt="icon" style="width: 11px; height: 11px; vertical-align: middle;">&nbsp;<a href="https://arxiv.org/abs/2208.02993">ArXiv</a></span>
         <hr class="small">
 		&#128101;&nbsp;
         <strong>Jingtao Tang</strong>,
@@ -181,7 +181,7 @@ I am strongly motivated to empower multiple robots with versatile skills to addr
     <tr>
       <td style="padding:6px;width:35%;vertical-align:middle">
         <div class="one">
-          <img src='assets/img/360encoding.png' width="200">
+          <img src='assets/img/360vr.gif' width="200">
         </div>
       </td>
       <td style="padding:6px;width:65%;vertical-align:middle;font-size: 12.5px;">
