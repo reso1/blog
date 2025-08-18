@@ -4,7 +4,7 @@ layout: post
 
 # Decision Making & Planning for Heterogeneous Multi-robot System
 
-#### In this national key R&D project, we focus on decision making and planning problems for heterogeneous multi-robot system. In the ecological restoration project, we use MSTC* where the coverage working robots need to constantly travel between the working spots and a static base station to replenish resources. 
+#### In this project, we focus on decision making and planning problems for heterogeneous multi-robot system. In the ecological restoration project, we use MSTC* where the coverage working robots need to constantly travel between the working spots and a static base station to replenish resources. 
 
 ![demo](./../assets/img/worker_station_mrs/demo.png)
 *Figure: Given an arbitrary target coverage area, a mCPP problem for the worker-station MRS on planar areas can be decomposed into: 1) coverage planning for workers (blue robots) and 2) rendezvous planning for station (yellow robot). There are random dynamic interferers (red robots) in the environment.*

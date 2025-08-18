@@ -85,6 +85,11 @@ table {
   border-collapse:collapse;
 }
 
+tr {
+  padding-bottom: 0;
+  padding-top: 0;
+}
+
 th, td {
   text-align:left;
   padding:5px 10px;
@@ -105,9 +110,9 @@ img {
 }
 
 header {
-  width:270px;
+  width:220px;
   float:left;
-  position:fixed;
+  position:sticky;
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
@@ -172,7 +177,7 @@ strong {
 }
 
 section {
-  width:500px;
+  width:580px;
   float:right;
   padding-bottom:50px;
 }
@@ -186,6 +191,10 @@ hr {
   background:#e5e5e5;
   height:1px;
   margin:0 0 20px;
+}
+
+hr.small {
+  margin:10px 0px 10px;
 }
 
 footer {

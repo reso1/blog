@@ -1,10 +1,10 @@
-title: Jingtao Tang
-description: Jingtao Tang's Homepage
-logo: /assets/img/avatar.png
+title: 汤景韬 (Jingtao Tang)
+description: My Homepage
+logo: /assets/img/jingtao.jpeg
 remote_theme: pages-themes/minimal@v0.2.0
 email: todd.j.tang@gmail.com
 github_username: reso1
 show_downloads: false
 github:
-  is_project_page: false
+  is_project_page: tes
   is_user_page: false

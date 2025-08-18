@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
@@ -13,33 +13,46 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
-        
         {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" />
+          <a href="/assets/img/jingtao.jpeg"><img style="width:100%;max-width:100%;object-fit: cover; border-radius: 50%;" alt="profile photo" src="/assets/img/jingtao.jpeg" class="hoverZoomLink"></a>
+          <br><br>
         {% endif %}
-
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
+        <h2 style="text-align:center"><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h2>
         
-        <div id="contact">
-          <h1>Research Interests</h1>
-          <p>Multi-robot System</p>
-          <p>Reinforcement Learning</p>
-          <p>Task Scheduling and Motion Planning</p>
-          <p>Virtual Reality</p>
-        </div>
-        <p></p>
-        <div id="contact">
-          <h1>Contact</h1>
-          <p><b>Email</b>: <i>{{site.email}}</i></p>
-          <p><b>Github</b>: <a href="https://github.com/reso1">reso1</a></p>
-          <p><b>Google Scholar</b>: <a href="https://scholar.google.com/citations?user=58xSbH8AAAAJ&hl=en">Jingtao Tang</a></p>
-        </div>
+        <!-- <p>{{ site.description | default: site.github.project_tagline }}</p> -->
+        <p style="text-align:center">
+          <a href="mailto:todd.j.tang@gmail.com">Email</a> &nbsp;/&nbsp;
+          <a href="assets/data/Jingtao-CV-EN.pdf">CV</a> &nbsp;/&nbsp;
+          <a href="https://scholar.google.com/citations?user=58xSbH8AAAAJ&hl=en">Scholar</a> &nbsp;/&nbsp;
+          <a href="https://github.com/reso1/">Github</a>
+        </p>
+        <hr>
 
+        <h2>Education</h2>
+        <ul style="list-style-type: disc; padding-left: 15px;">
+        <li><medium>Ph.D. student (Computing Science) @ <a href="https://www.sfu.ca/fas/computing.html">Simon Fraser University</a> (Jan. 2023 ~ )</medium></li>
+        <li><medium>M.Eng. & B.Eng. (Software Engineering) @ <a href="https://english.ecnu.edu.cn/">East China Normal University</a> (Sep. 2014 ~ Jun. 2021)</medium></li>
+        </ul>
+        <hr>
+        
+        <h2>Research Interests</h2>
+        <ul style="list-style-type: disc; padding-left: 15px;">
+        <li>Multi-Robot Systems</li>
+        <li>Heuristic Search</li>
+        <li>Automated Planning</li>
+        <li>Combinatorial Optimization</li>
+        <li>Reinforcement Learning</li>
+        </ul>
+        <hr>
 
-        {% if site.github.is_project_page %}
-        <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
-        {% endif %}
+        <h2>Academic Services</h2>
+        <ul style="list-style-type: disc; padding-left: 15px;">
+          <li>Conference Reviewers: ICRA, IROS, AAAI, ECAI, ICAPS</li>
+          <li>Journal Reviewers: T-RO, RA-L, RAS, EAAI</li>
+          <li>Organizers: <a href="https://nwrsymposium.github.io/">NWRS-25</a></li>
+          <li>Volunteers: AAAI-24, ROS Summer School China 18-20</li>
+        </ul>
+        <hr>
 
         {% if site.github.is_user_page %}
         <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
@@ -52,18 +65,14 @@
           <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
         </ul>
         {% endif %}
+        <p><small>This website is hosted on <a href="{{ site.github.repository_url }}">GitHub Pages</a> (Jekyll Minimal theme by <a href="https://github.com/orderedlist">orderedlist</a></small>)</p>
+        
       </header>
       <section>
 
       {{ content }}
 
       </section>
-      <footer>
-        {% if site.github.is_project_page %}
-        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %}
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
-      </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
     {% if site.google_analytics %}
