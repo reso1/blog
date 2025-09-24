@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## About Me
-I am Jingtao Tang, currently a 3rd year Ph.D. student in the <a href="https://www2.cs.sfu.ca/~hangma">AIRob</a> lab supervised by Professor Hang Ma at Simon Fraser University.
+I am Jingtao Tang, currently a Ph.D. candidate in the <a href="https://www2.cs.sfu.ca/~hangma">AIRob</a> lab supervised by Professor Hang Ma at Simon Fraser University.
 My current research focuses on various planning problems for (multi-) robot systems.
 Before that, I worked at the Shenzhen Institute of Artificial Intelligence and Robotics for Society (AIRS), and studied and worked in the Intelligent Motion Planning and Vision Laboratory at East China Normal University (ECNU).
 I am strongly motivated to empower multiple robots with versatile skills to address practical applications in our daily lives.
