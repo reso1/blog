@@ -12,6 +12,35 @@ I am strongly motivated to empower multiple robots with versatile skills to addr
 ## Research
 <table style="width:100%;border:0px;border-spacing:0px 10px;border-collapse:separate;margin-right:auto;margin-left:auto;">
 <tbody>
+    <!-- GHOST -->
+    <tr>
+      <td style="padding:6px;width:35%;vertical-align:middle">
+        <div class="one">
+          <img src='assets/img/ghost_iiwa.gif' width="200">
+        </div>
+      </td>
+      <td style="padding:6px;width:65%;vertical-align:middle;font-size: 12.5px;">
+        &#128204;&nbsp;
+        GHOST: Solving the Traveling Salesman Problem on Graphs of Convex Sets
+        |
+        &#127760;&nbsp;
+        <a href="https://sites.google.com/view/ghost-gcs-tsp">Homepage</a>
+        |
+        <span><img src="assets/img/arxiv-logomark-small@2x.png" alt="icon" style="width: 11px; height: 11px; vertical-align: middle;">&nbsp;<a href="https://arxiv.org/abs/2511.06471">ArXiv</a></span>
+        |
+        <i style="font-size:16px" class="fa">&#xf09b;</i>&nbsp;<a href="https://github.com/reso1/ghost">Code</a>
+        <hr class="small">
+		&#128101;&nbsp;
+        <strong>Jingtao Tang</strong>, 
+        <a href="https://www.cs.sfu.ca/~hangma/">Hang Ma</a>
+        <hr class="small">
+        &#128226;&nbsp;
+        <a href="https://aaai.org/conference/aaai/aaai-26/"><em>AAAI</em>-26 (Accepted)</a>
+        <hr class="small">
+        <p>&#128161;&nbsp;<em>TL;DR</em>: An optimal hierarchical framework for the Traveling Salesman Problem on Graphs of Convex Sets.</p>
+      </td>
+    </tr>
+    <!-- STGCS -->
     <tr>
       <td style="padding:6px;width:35%;vertical-align:middle">
         <div class="one">
@@ -43,6 +72,7 @@ I am strongly motivated to empower multiple robots with versatile skills to addr
         <p>&#128161;&nbsp;<em>TL;DR</em>: A time-optimal deterministic spatiotemporal planner for multi-robot motion planning.</p>
       </td>
     </tr>
+    <!-- LS-MCPP -->
     <tr>
       <td style="padding:6px;width:35%;vertical-align:middle">
         <div class="one">
@@ -73,6 +103,7 @@ I am strongly motivated to empower multiple robots with versatile skills to addr
         <p>&#128161;&nbsp;<em>TL;DR</em>: An algorithmic pipeline to plan conflict-free coverage paths for multiple robots on grids.</p>
       </td>
     </tr>
+    <!-- MCFS -->
     <tr>
       <td style="padding:6px;width:35%;vertical-align:middle">
         <div class="one">
@@ -97,6 +128,7 @@ I am strongly motivated to empower multiple robots with versatile skills to addr
         <p>&#128161;&nbsp;<em>TL;DR</em>: A decomposition-free multi-robot coverage path planning algorithm that generates smooth and continuous trajecories for arbitrarily-shaped workspaces.</p>
       </td>
     </tr>
+    <!-- MIP-MCPP -->
     <tr>
       <td style="padding:6px;width:35%;vertical-align:middle">
         <div class="one">
@@ -125,6 +157,7 @@ I am strongly motivated to empower multiple robots with versatile skills to addr
         <p>&#128161;&nbsp;<em>TL;DR</em>: A mixed-integer program for min-max tree cover problem and grid-based multi-robot coverage path planning.</p>
       </td>
     </tr>
+    <!-- Worker-Station HMRS -->
     <tr>
       <td style="padding:6px;width:35%;vertical-align:middle">
         <div class="one">
@@ -151,6 +184,7 @@ I am strongly motivated to empower multiple robots with versatile skills to addr
         <p>&#128161;&nbsp;<em>TL;DR</em>: A DRL-based decentralized planning for collaborative coverage task of a heteogeneous multi-robot system.</p>
       </td>
     </tr>
+    <!-- Eco Restoration Robots -->
     <tr>
       <td style="padding:6px;width:35%;vertical-align:middle">
         <div class="one">
@@ -178,6 +212,7 @@ I am strongly motivated to empower multiple robots with versatile skills to addr
         <p>&#128161;&nbsp;<em>TL;DR</em>: planning problems from an ambitious project: robot swarms for large-scale ecological restoration task.</p>
       </td>
     </tr>
+    <!-- 360 VR -->
     <tr>
       <td style="padding:6px;width:35%;vertical-align:middle">
         <div class="one">
