@@ -1,0 +1,27 @@
+{% assign project = include.project %}
+<tr class="research-project" id="{{ project.key }}">
+  <td class="research-project__media">
+    <div class="one">
+      {% for image in project.images %}
+        <img src="{{ image.path }}" alt="{{ image.alt | default: project.title }}" class="research-project__image">
+      {% endfor %}
+    </div>
+  </td>
+  <td class="research-project__content">
+    <div class="research-project__title">
+      &#128204;&nbsp;{{ project.title }}{% for link in project.links %} | {% case link.type %}{% when "homepage" %}&#127760;&nbsp;<a href="{{ link.url }}">{{ link.label }}</a>{% when "arxiv" %}<span><img src="assets/img/arxiv-logomark-small@2x.png" alt="icon" class="research-project__link-icon">&nbsp;<a href="{{ link.url }}">{{ link.label }}</a></span>{% when "paper" %}<span><img src="assets/img/arxiv-logomark-small@2x.png" alt="icon" class="research-project__link-icon">&nbsp;<a href="{{ link.url }}">{{ link.label }}</a></span>{% when "code" %}<i class="fa research-project__github-icon">&#xf09b;</i>&nbsp;<a href="{{ link.url }}">{{ link.label }}</a>{% else %}<a href="{{ link.url }}">{{ link.label }}</a>{% endcase %}{% endfor %}
+    </div>
+    <hr class="small">
+    <div class="research-project__authors">
+      &#128101;&nbsp;{% for author in project.authors %}{% unless forloop.first %}, {% endunless %}{% if author.primary %}<strong>{{ author.name }}</strong>{% elsif author.url %}<a href="{{ author.url }}">{{ author.name }}</a>{% else %}{{ author.name }}{% endif %}{% endfor %}
+    </div>
+    {% if project.publications %}
+    <hr class="small">
+    <div class="research-project__publications">
+      &#128226;&nbsp;{% for publication in project.publications %}{% unless forloop.first %} | {% endunless %}{% if publication.url %}<a href="{{ publication.url }}">{{ publication.text }}</a>{{ publication.suffix }}{% else %}{{ publication.text }}{{ publication.suffix }}{% endif %}{% endfor %}
+    </div>
+    {% endif %}
+    <hr class="small">
+    <p>&#128161;&nbsp;<em>TL;DR</em>: {{ project.tldr }}</p>
+  </td>
+</tr>

@@ -1,0 +1,224 @@
+- key: stgcs-26
+  title: "Search-Based Spatiotemporal and Multi-Robot Motion Planning on Graphs of Space-Time Convex Sets"
+  images:
+    - path: "assets/img/stgcs_large_scale.gif"
+      alt: "Large scale MRMP instances on STGCS"
+  links:
+    - type: homepage
+      label: Homepage
+      url: "https://sites.google.com/view/stgcs"
+    - type: arxiv
+      label: ArXiv
+      url: "https://arxiv.org/abs/2607.00444"
+    - type: code
+      label: Code
+      url: "https://github.com/reso1/stgcs"
+  authors:
+    - name: "Jingtao Tang"
+      primary: true
+    - name: "Zining Mao"
+    - name: "Lufan Yang"
+    - name: "Hang Ma"
+      url: "https://www.cs.sfu.ca/~hangma/"
+  tldr: "Fast continuous-space planning for robots moving through dynamic, crowded environments using search on space-time convex regions."
+
+- key: ghost
+  title: "GHOST: Solving the Traveling Salesman Problem on Graphs of Convex Sets"
+  images:
+    - path: "assets/img/ghost_iiwa.gif"
+      alt: "GHOST project animation"
+  links:
+    - type: homepage
+      label: Homepage
+      url: "https://sites.google.com/view/ghost-gcs-tsp"
+    - type: arxiv
+      label: ArXiv
+      url: "https://arxiv.org/abs/2511.06471"
+    - type: code
+      label: Code
+      url: "https://github.com/reso1/ghost"
+  authors:
+    - name: "Jingtao Tang"
+      primary: true
+    - name: "Hang Ma"
+      url: "https://www.cs.sfu.ca/~hangma/"
+  publications:
+    - text: "<em>AAAI</em>-26"
+      url: "https://aaai.org/conference/aaai/aaai-26/"
+  tldr: "An optimal hierarchical framework for the Traveling Salesman Problem on Graphs of Convex Sets."
+
+- key: stgcs
+  title: "Space-Time Graphs of Convex Sets for Multi-Robot Motion Planning"
+  images:
+    - path: "assets/img/stgcs.gif"
+      alt: "STGCS project animation"
+  links:
+    - type: homepage
+      label: Homepage
+      url: "https://sites.google.com/view/stgcs/iros-version"
+    - type: arxiv
+      label: ArXiv
+      url: "https://arxiv.org/abs/2503.00583"
+    - type: code
+      label: Code
+      url: "https://github.com/reso1/stgcs"
+  authors:
+    - name: "Jingtao Tang"
+      primary: true
+    - name: "Zining Mao"
+    - name: "Lufan Yang"
+    - name: "Hang Ma"
+      url: "https://www.cs.sfu.ca/~hangma/"
+  publications:
+    - text: "<em>IROS</em>-25"
+      url: "https://www.iros25.org/"
+    - text: "<em>RSS</em>-25 Workshop on MRS"
+      url: "https://mrs-workshop.github.io/rss25/"
+      suffix: " (<strong>Best Paper Award</strong>)"
+  tldr: "A time-optimal deterministic spatiotemporal planner for multi-robot motion planning."
+
+- key: lsmcpp
+  title: "Large-Scale Multirobot Coverage Path Planning on Grids with Path Deconfliction"
+  images:
+    - path: "assets/img/lsmcpp.gif"
+      alt: "LS-MCPP project animation"
+  links:
+    - type: homepage
+      label: Homepage
+      url: "https://sites.google.com/view/lsmcpp"
+    - type: arxiv
+      label: ArXiv
+      url: "https://arxiv.org/abs/2411.01707"
+    - type: code
+      label: Code
+      url: "https://github.com/reso1/ls-mcpp"
+  authors:
+    - name: "Jingtao Tang"
+      primary: true
+    - name: "Zining Mao"
+    - name: "Hang Ma"
+      url: "https://www.cs.sfu.ca/~hangma/"
+  publications:
+    - text: "<em>AAAI</em>-24"
+      url: "https://aaai.org/conference/aaai/aaai-24/"
+    - text: "IEEE Transactions on Robotics (T-RO), vol. 41, pp. 3348-3367, 2025"
+  tldr: "An algorithmic pipeline to plan conflict-free coverage paths for multiple robots on grids."
+
+- key: mcfs
+  title: "Multi-Robot Connected Fermat Spiral Coverage"
+  images:
+    - path: "assets/img/mcfs.gif"
+      alt: "MCFS project animation"
+  links:
+    - type: arxiv
+      label: ArXiv
+      url: "https://arxiv.org/abs/2403.13311"
+    - type: code
+      label: Code
+      url: "https://github.com/reso1/mcfs"
+  authors:
+    - name: "Jingtao Tang"
+      primary: true
+    - name: "Hang Ma"
+      url: "https://www.cs.sfu.ca/~hangma/"
+  publications:
+    - text: "<em>ICAPS</em>-24"
+      url: "https://icaps24.icaps-conference.org/"
+  tldr: "A decomposition-free multi-robot coverage path planning algorithm that generates smooth and continuous trajecories for arbitrarily-shaped workspaces."
+
+- key: mip-mcpp
+  title: "Mixed Integer Programming for Time-Optimal Multi-Robot Coverage Path Planning With Efficient Heuristics"
+  images:
+    - path: "assets/img/stc.gif"
+      alt: "STC project animation"
+    - path: "assets/img/2mcpp.png"
+      alt: "MIP-MCPP project image"
+  links:
+    - type: homepage
+      label: Homepage
+      url: "./posts/grid_mcpp"
+    - type: arxiv
+      label: ArXiv
+      url: "https://arxiv.org/abs/2306.17609"
+    - type: code
+      label: Code
+      url: "https://github.com/reso1/MIP-MCPP"
+  authors:
+    - name: "Jingtao Tang"
+      primary: true
+    - name: "Hang Ma"
+      url: "https://www.cs.sfu.ca/~hangma/"
+  publications:
+    - text: "IEEE Robotics and Automation Letters (RA-L) 8.10 (2023): 6491-6498."
+  tldr: "A mixed-integer program for min-max tree cover problem and grid-based multi-robot coverage path planning."
+
+- key: worker-station-hmrs
+  title: "Learning to Coordinate for a Worker-Station Multi-robot System in Planar Coverage Tasks"
+  images:
+    - path: "assets/img/wshmrs.gif"
+      alt: "Worker-Station HMRS project animation"
+  links:
+    - type: homepage
+      label: Homepage
+      url: "./posts/worker_station_mcpp"
+    - type: arxiv
+      label: ArXiv
+      url: "https://arxiv.org/abs/2208.02993"
+  authors:
+    - name: "Jingtao Tang"
+      primary: true
+    - name: "Yuan Gao"
+      url: "https://gaoyuankidult.github.io/"
+    - name: "Tin Lun Lam"
+      url: "https://freeformrobotics.org/tllam/"
+  publications:
+    - text: "IEEE Robotics and Automation Letters (RA-L) 7.4 (2022): 12315-12322."
+  tldr: "A DRL-based decentralized planning for collaborative coverage task of a heteogeneous multi-robot system."
+
+- key: eco-restoration-robots
+  title: "MSTC*: Multi-robot Coverage Path Planning under Physical Constrain"
+  images:
+    - path: "assets/img/drilling_robot.gif"
+      alt: "Ecological restoration robot project animation"
+  links:
+    - type: homepage
+      label: Homepage
+      url: "./posts/mcpp_mp_rough_terrain"
+    - type: arxiv
+      label: ArXiv
+      url: "https://arxiv.org/abs/2108.04632"
+    - type: code
+      label: Code
+      url: "https://github.com/reso1/mstc_star"
+  authors:
+    - name: "Jingtao Tang"
+      primary: true
+    - name: "Chun Sun"
+    - name: "Xinyu Zhang"
+      url: "https://faculty.ecnu.edu.cn/_s43/zxy2/main.psp"
+  publications:
+    - text: "ICRA-21"
+      url: "https://www.ieee-ras.org/about-ras/ras-calendar/event/1920-icra-2021"
+  tldr: "planning problems from an ambitious project: robot swarms for large-scale ecological restoration task."
+
+- key: 360-vr
+  title: "Hybrid Projection for Encoding 360 VR Videos"
+  images:
+    - path: "assets/img/360vr.gif"
+      alt: "360 VR projection project animation"
+  links:
+    - type: homepage
+      label: Homepage
+      url: "./posts/360_vr_projection"
+    - type: paper
+      label: Paper
+      url: "https://ieeexplore.ieee.org/document/8798261"
+  authors:
+    - name: "Jingtao Tang"
+      primary: true
+    - name: "Xinyu Zhang"
+      url: "https://faculty.ecnu.edu.cn/_s43/zxy2/main.psp"
+  publications:
+    - text: "IEEE-VR-19"
+      url: "https://ieeevr.org/2019/"
+  tldr: "A hybrid projection format for efficient encoding/decoding panarama VR videos."

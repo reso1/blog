@@ -6,3 +6,42 @@
 #contact p {
     margin: 5px 0;
 }
+
+.research-projects {
+    width: 100%;
+    border: 0;
+    border-spacing: 0 10px;
+    border-collapse: separate;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.research-project__media,
+.research-project__content {
+    padding: 6px;
+    vertical-align: middle;
+}
+
+.research-project__media {
+    width: 35%;
+}
+
+.research-project__content {
+    width: 65%;
+    font-size: 12.5px;
+}
+
+.research-project__image {
+    width: 200px;
+    max-width: 100%;
+}
+
+.research-project__link-icon {
+    width: 11px;
+    height: 11px;
+    vertical-align: middle;
+}
+
+.research-project__github-icon {
+    font-size: 16px;
+}
