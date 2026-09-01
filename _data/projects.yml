@@ -1,3 +1,26 @@
+- key: steiner-tsp-gcs
+  title: "Unified Branch-and-Bound Search for the Steiner Traveling Salesman Problem on Graphs of Convex Sets"
+  images:
+    - path: "assets/img/steiner_tsp_inspection.gif"
+      alt: "Mobile manipulator performing an inspection tour"
+  links:
+    - type: homepage
+      label: Homepage
+      url: "https://sites.google.com/view/steiner-tsp-gcs"
+    - type: arxiv
+      label: ArXiv
+      url: "https://arxiv.org/abs/2608.21319"
+    # - type: code
+    #   label: Code
+    #   url: "https://github.com/reso1/stgcs"
+  authors:
+    - name: "Jingtao Tang"
+      primary: true
+    - name: "Hang Ma"
+      url: "https://www.cs.sfu.ca/~hangma/"
+  tldr: "A unified branch-and-bound planner for minimum-cost robot tours through target convex regions with certified solution quality."
+
+
 - key: stgcs-26
   title: "Search-Based Spatiotemporal and Multi-Robot Motion Planning on Graphs of Space-Time Convex Sets"
   images:
